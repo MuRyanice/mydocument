@@ -1,0 +1,66 @@
+Privacy Policy for NewTaber Chrome Extension
+Last Updated: [当前日期]
+English Version
+1. Introduction
+NewTaber ("we," "our," or "the extension") is committed to protecting your privacy. This Privacy Policy explains our data practices for our Chrome extension.
+2. Data Collection and Usage
+We want to be absolutely clear about our data practices:
+We do NOT collect any personal information
+We do NOT track your browsing history
+We do NOT store any user data on our servers
+We do NOT use cookies
+We do NOT share any information with third parties
+3. Local Storage
+The only data we store is:
+User preferences (extension settings)
+This data is stored locally on your device using Chrome's storage API
+This data never leaves your browser
+4. Permissions
+Our extension requires certain permissions to function:
+activeTab: To modify link behavior on current webpage
+scripting: To implement new tab opening functionality
+storage: To save your preferences locally
+contextMenus: To provide right-click menu options
+host permissions: To function across websites
+5. Changes to Privacy Policy
+We will update this Privacy Policy as needed. Significant changes will be notified through the extension's update notes.
+6. Contact
+For privacy concerns, contact us at: [您的联系邮箱]
+中文版本
+1. 简介
+NewTaber（"我们"或"本扩展"）致力于保护您的隐私。本隐私权政策说明了我们的数据处理方式。
+2. 数据收集与使用
+我们明确声明：
+不收集任何个人信息
+不跟踪您的浏览历史
+不在服务器上存储任何用户数据
+不使用 cookies
+不与第三方共享任何信息
+3. 本地存储
+我们仅存储：
+用户偏好设置
+这些数据仅通过 Chrome 存储 API 保存在您的设备上
+这些数据永远不会离开您的浏览器
+4. 权限说明
+本扩展需要以下权限才能正常运行：
+activeTab：用于修改当前网页的链接行为
+scripting：用于实现新标签页打开功能
+storage：用于本地保存您的偏好设置
+contextMenus：用于提供右键菜单选项
+host权限：用于在各个网站上运行
+5. 隐私政策更新
+我们会在需要时更新本隐私政策。重要变更将通过扩展更新说明通知用户。
+6. 联系方式
+如有隐私相关问题，请联系：[您的联系邮箱]
+---
+这个隐私政策：
+使用清晰的语言说明了数据处理方式
+强调了用户隐私保护
+详细解释了所需权限
+提供了中英文双语版本
+符合基本的隐私政策要求
+建议将此隐私政策保存为单独的文件（如 privacy.html 或 privacy.md），并在扩展的设置页面或 Chrome 商店描述中提供链接。
+您需要在发布前：
+更新"Last Updated"日期
+添加有效的联系邮箱
+3. 根据实际情况调整具体内容
